@@ -1,3 +1,4 @@
+# Lyrics Bot API - Handles transliteration and stateful chunking
 from flask import Flask, request, jsonify
 import requests
 import os
